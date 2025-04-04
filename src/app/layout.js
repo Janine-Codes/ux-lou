@@ -1,15 +1,5 @@
-import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+import "../../styles/colors.css";
+import "../../styles/globals.css";
 
 export const metadata = {
   title: "Create Next App",
@@ -20,9 +10,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        <header>Lou's Landing page</header>
+        {/* <header>Lous Landing page</header> */}
         {children}
-        <footer>2025 Lou Hedberg</footer>
+        {/* <footer>© 2025 Lou Hedberg</footer> */}
       </body>
     </html>
   );
