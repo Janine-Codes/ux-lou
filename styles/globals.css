@@ -1,0 +1,33 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: var(--primary-color);
+  font-family: Arial, sans-serif;
+  color: var(--text-dark);
+}
+
+:root {
+  --heading-small: 16px;
+  --heading-medium: 20px;
+  --heading-large: 28px;
+  --heading-extra-large: 32px;
+
+  --radius-small: 10px;
+  --radius-medium: 20px;
+  --radius-large: 30px;
+  --radius-round: 99px;
+
+  --font-extra-small: 14px;
+  --font-small: 16px;
+  --font-sm: 18px;
+  --font-medium: 20px;
+  --font-large: 28px;
+  --font-extra-large: 32px;
+
+  --font-weight-regular: 450;
+  --font-weight-medium: 500;
+  --font-weight-semi-bold: 500;
+  --font-weight-bold: 700;
+  --font-weight-extra-bold: 900;
+}

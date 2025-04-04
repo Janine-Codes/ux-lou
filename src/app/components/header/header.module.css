@@ -1,0 +1,20 @@
+.header {
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin: 8px;
+  border-radius: 10px;
+  margin-top: 58px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  background-color: #8fbdea;
+  justify-content: space-between;
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+  gap: 7.444px;
+}
