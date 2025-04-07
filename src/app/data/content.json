@@ -8,7 +8,7 @@
       "title": "Featured projects",
       "subtitle": "Some of my work"
     },
-    "testimonialLabel": {
+    "testemonialLabel": {
       "title": "Testemonials",
       "subtitle": "Words from happy clients"
     }
@@ -40,6 +40,23 @@
     },
     {
       "image": "/project3.png"
+    }
+  ],
+  "testemonials": [
+    {
+      "description": "When I was opening up my own law firm I used Louise’s services. She was very service minded, diligent, professional and easy to have contact with. I would highly recommend Louise as a designer both in regards to her skills and customer friendliness.",
+      "name": "Martin Szydlowski",
+      "reference": "3 Kronor Law firm"
+    },
+    {
+      "description": "She completely changed the way I think about design. I used to see it as just ‘making things look nice,’ but now I understand how much it affects how people perceive and trust my business.",
+      "name": "Christiaan Bester",
+      "reference": "Horizon Capitol"
+    },
+    {
+      "description": "When I was opening up my own law firm I used Louise’s services. She was very service minded, diligent, professional and easy to have contact with. I would highly recommend Louise as a designer both in regards to her skills and customer friendliness.",
+      "name": "Martin Szydlowski",
+      "reference": "3 Kronor Advokatbyrå"
     }
   ]
 }

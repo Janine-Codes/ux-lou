@@ -1,0 +1,34 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: var(--container-padding-regular);
+  border-radius: var(--radius-medium);
+  background-color: var(--primary-color);
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  margin-bottom: var(--small-spacing);
+}
+
+.description {
+  font-size: var(--font-small);
+  font-weight: var(--font-weight-regular);
+  margin: 0;
+  margin-bottom: var(--medium-spacing);
+}
+
+.name {
+  font-size: var(--font-small);
+  font-weight: var(--font-weight-extra-bold);
+  color: var(--text-dark);
+  margin: 0;
+}
+
+.reference {
+  font-size: var(--font-small);
+  font-weight: var(--font-weight-extra-bold);
+  color: var(--text-grey);
+  margin: 0;
+}
