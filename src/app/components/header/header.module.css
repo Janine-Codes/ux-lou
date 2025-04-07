@@ -9,7 +9,7 @@
 .container {
   display: flex;
   align-items: center;
-  background-color: #8fbdea;
+  background-color: var(--primary-color);
   justify-content: space-between;
 }
 

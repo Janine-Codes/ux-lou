@@ -1,4 +1,5 @@
 import Section from "../section/Section";
+import Button from "../sub-components/button/Button";
 import Wrapper from "../wrapper/Wrapper";
 import styles from "./Hero.module.css";
 
@@ -10,7 +11,7 @@ export default function Hero() {
           <div className={styles.heroContent}>
             <div>
               <h1 className={styles.title}>
-                Let's build beautiful &{" "}
+                Lets build beautiful &{" "}
                 <span className={styles.highlight}>smart</span> experiences
               </h1>
               <p className={styles.subtitle}>
@@ -18,8 +19,8 @@ export default function Hero() {
               </p>
             </div>
             <div className={styles.buttonContainer}>
-              <button>Let's connect</button>
-              <button>View my work</button>
+              <Button label="Let's connect" />
+              <Button label="View my work" variant="secondaryButton" />
             </div>
           </div>
         </section>

@@ -2,10 +2,17 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--secondary-color);
-  padding: 32px;
+  background: var(--secondary-gradient);
   border-radius: var(--radius-large);
+  padding: var(--container-padding-regular);
+  padding-top: calc(
+    var(--hero-item-spacing) + var(--container-padding-regular)
+  );
+  padding-bottom: calc(
+    var(--hero-item-spacing) + var(--container-padding-regular)
+  );
 }
+
 .heroContent {
   display: flex;
   justify-content: center;
@@ -33,4 +40,5 @@
 .buttonContainer {
   display: flex;
   flex-direction: column;
+  gap: 16px;
 }

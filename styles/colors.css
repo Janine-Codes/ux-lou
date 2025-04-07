@@ -2,8 +2,15 @@
   --primary-color: #fff;
   --secondary-color: #17191c;
   --ternary-color: #f9f9f9;
+  --color-accent: #8468f5;
 
-  --gradient-primary: linear-gradient(250deg, #8468f5 72.09%, #ec74e7 352.57%);
+  --primary-gradient: linear-gradient(250deg, #8468f5 72.09%, #ec74e7 352.57%);
+  --secondary-gradient: linear-gradient(
+      270deg,
+      rgba(0, 0, 0, 0) -1.53%,
+      #000 99.28%
+    ),
+    linear-gradient(0deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.3) 100%);
 
   --text-light: #fff;
   --text-dark: #000;

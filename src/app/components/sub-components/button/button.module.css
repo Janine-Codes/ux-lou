@@ -1,0 +1,31 @@
+.primaryButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-large);
+  background-color: var(--color-accent);
+  color: var(--text-light);
+  font-size: var(--font-small);
+  font-weight: var(--font-weight-bold);
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 48px;
+  padding-right: 48px;
+  border: none;
+  width: 307px;
+}
+
+.secondaryButton {
+  background-color: var(--primary-color);
+  color: var(--text-purple);
+  font-size: var(--font-small);
+  font-weight: var(--font-weight-bold);
+  align-items: center;
+  justify-content: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 48px;
+  padding-right: 48px;
+  border: none;
+  width: 307px;
+}

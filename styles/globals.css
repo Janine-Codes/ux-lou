@@ -30,4 +30,13 @@ html {
   --font-weight-semi-bold: 500;
   --font-weight-bold: 700;
   --font-weight-extra-bold: 900;
+
+  --hero-item-spacing: 85.5px;
+  --container-padding-small: 16px;
+  --container-padding-regular: 32px;
+
+  --small-spacing: 10px;
+  --base-spacing: 16px;
+  --medium-spacing: 32px;
+  --large-spacing: 64px;
 }
