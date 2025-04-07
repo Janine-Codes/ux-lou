@@ -1,0 +1,30 @@
+.formContainer {
+  background-color: var(--secondary-color);
+  padding: var(--container-padding-regular);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: var(--primary-color);
+  border-radius: var(--radius-large);
+}
+
+.formContainer p {
+  text-align: center;
+}
+
+.formDescriptionsContainer {
+  margin-top: var(--base-spacing);
+}
+
+.headerContainer {
+  margin-bottom: var(--medium-spacing);
+  text-align: center;
+}
+
+.headerContainer img {
+  margin-bottom: 8px;
+}
+
+.headerContainer h2 {
+  margin-bottom: var(--base-spacing);
+}

@@ -11,14 +11,21 @@
   display: flex;
   flex-direction: column;
   color: var(--primary-color);
+  margin-top: var(--medium-spacing);
+  margin-bottom: var(--medium-spacing);
 }
 
 .title {
   font-size: var(--font-large);
   font-weight: var(--font-weight-extra-bold);
+  margin-bottom: var(--base-spacing);
 }
 
 .subtitle {
   font-size: var(--font-small);
   font-weight: var(--font-weight-regular);
+}
+
+.firstSubtitle {
+  margin-bottom: var(--base-spacing);
 }

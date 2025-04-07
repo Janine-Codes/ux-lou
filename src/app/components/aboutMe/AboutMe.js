@@ -13,7 +13,7 @@ export default function AboutMe() {
             <div className={styles.textContainer}>
               <h2 className={styles.title}>Hey, I’m Lou</h2>
 
-              <p className={styles.subtitle}>
+              <p className={(styles.subtitle, styles.firstSubtitle)}>
                 I’ve been a designer for 7 years, and I absolutely love blending
                 psychology, creativity, and user experience to build designs
                 that just make sense.

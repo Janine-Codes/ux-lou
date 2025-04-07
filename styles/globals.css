@@ -8,6 +8,17 @@ html {
   background-color: var(--ternary-color);
 }
 
+p,
+h1,
+h2 {
+  margin: 0;
+}
+
+h1 {
+  margin-bottom: var(--base-spacing);
+  margin-top: var(--base-spacing);
+}
+
 :root {
   --heading-small: 16px;
   --heading-medium: 20px;
@@ -39,6 +50,7 @@ html {
   --extra-small-spacing: 8px;
   --small-spacing: 10px;
   --base-spacing: 16px;
+  --between-spacing: 24px;
   --medium-spacing: 32px;
   --large-spacing: 64px;
 }

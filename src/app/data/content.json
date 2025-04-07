@@ -58,5 +58,19 @@
       "name": "Martin Szydlowski",
       "reference": "3 Kronor Advokatbyrå"
     }
+  ],
+  "formDescriptions": [
+    {
+      "icon": "/Vector.svg",
+      "text": "Send in your details via email"
+    },
+    {
+      "icon": "/camera-movie.svg",
+      "text": "Get a 30 min video consultation"
+    },
+    {
+      "icon": "/magic-wand.svg",
+      "text": "I begin crafting your design solution"
+    }
   ]
 }

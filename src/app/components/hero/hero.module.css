@@ -35,6 +35,7 @@
   font-size: var(--font-medium);
   text-align: center;
   font-weight: var(--font-weight-regular);
+  margin-bottom: var(--large-spacing);
 }
 
 .buttonContainer {

@@ -1,4 +1,5 @@
 import AboutMe from "./components/aboutMe/AboutMe";
+import Form from "./components/form/Form";
 import Header from "./components/header/Header";
 import Hero from "./components/hero/Hero";
 import Projects from "./components/projects/Projects";
@@ -17,6 +18,7 @@ export default function Home() {
           <AboutMe />
           <Projects />
           <Testemonials />
+          <Form />
         </div>
       </main>
       <footer className={styles.footer}></footer>
