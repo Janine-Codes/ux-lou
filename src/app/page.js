@@ -1,6 +1,7 @@
 import AboutMe from "./components/aboutMe/AboutMe";
 import Header from "./components/header/Header";
 import Hero from "./components/hero/Hero";
+import Projects from "./components/projects/Projects";
 import Services from "./components/services/Services";
 import styles from "./page.module.css";
 
@@ -13,6 +14,7 @@ export default function Home() {
           <Hero />
           <Services />
           <AboutMe />
+          <Projects />
         </div>
       </main>
       <footer className={styles.footer}></footer>

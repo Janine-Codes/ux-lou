@@ -30,5 +30,16 @@
       "title": "Branding",
       "description": "Helping you create a strong, consistent, and memorable brand identity that reflects your company’s values and vision."
     }
+  ],
+  "images": [
+    {
+      "image": "/project1.png"
+    },
+    {
+      "image": "/project2.png"
+    },
+    {
+      "image": "/project3.png"
+    }
   ]
 }

@@ -1,0 +1,10 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin: 0;
+}
+
+.imageCard {
+  display: block;
+}
