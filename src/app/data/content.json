@@ -1,0 +1,34 @@
+{
+  "labels": {
+    "servicesLabel": {
+      "title": "Services",
+      "subtitle": "Design services to help your business"
+    },
+    "contactLabel": {
+      "title": "Featured projects",
+      "subtitle": "Some of my work"
+    },
+    "testimonialLabel": {
+      "title": "Testemonials",
+      "subtitle": "Words from happy clients"
+    }
+  },
+
+  "services": [
+    {
+      "icon": "/heart-partner-handshake.svg",
+      "title": "Design consultation",
+      "description": "In-depth audit with custom strategies to enhance UX, boost conversions, and drive growth."
+    },
+    {
+      "icon": "/mobile-hand.svg",
+      "title": "UX/UI design",
+      "description": "A full web or app experience of your choice that engages, converts, and work seamlessly on any device."
+    },
+    {
+      "icon": "/customize-computer.svg",
+      "title": "Branding",
+      "description": "Helping you create a strong, consistent, and memorable brand identity that reflects your company’s values and vision."
+    }
+  ]
+}

@@ -5,6 +5,7 @@ html {
   background-color: var(--primary-color);
   font-family: Arial, sans-serif;
   color: var(--text-dark);
+  background-color: var(--ternary-color);
 }
 
 :root {
@@ -35,6 +36,7 @@ html {
   --container-padding-small: 16px;
   --container-padding-regular: 32px;
 
+  --extra-small-spacing: 8px;
   --small-spacing: 10px;
   --base-spacing: 16px;
   --medium-spacing: 32px;
