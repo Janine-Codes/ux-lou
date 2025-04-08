@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  trailingSlash: true,
+  output: "export",
   webpack: (config, { dev }) => {
     if (dev) {
       config.optimization.providedExports = false;
