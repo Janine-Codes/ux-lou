@@ -6,6 +6,7 @@ html {
   font-family: Arial, sans-serif;
   color: var(--text-dark);
   background-color: var(--ternary-color);
+  font-family: "BeausiteClassic", sans-serif;
 }
 
 p,
@@ -52,5 +53,6 @@ h1 {
   --base-spacing: 16px;
   --between-spacing: 24px;
   --medium-spacing: 32px;
+  --ml-spacing: 48px;
   --large-spacing: 64px;
 }

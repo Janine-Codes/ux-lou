@@ -1,10 +1,4 @@
-import AboutMe from "./components/aboutMe/AboutMe";
-import Form from "./components/form/Form";
-import Header from "./components/header/Header";
-import Hero from "./components/hero/Hero";
-import Projects from "./components/projects/Projects";
-import Services from "./components/services/Services";
-import Testemonials from "./components/testemonials/Testemonials";
+import PreLaunchPage from "./components/pre-launch/PreLaunchPage";
 import styles from "./page.module.css";
 
 export default function Home() {
@@ -12,13 +6,15 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <div>
-          <Header />
-          <Hero />
+          {/* <Header /> */}
+          <PreLaunchPage />
+          {/* <ServiceSection /> */}
+          {/* <Hero />
           <Services />
           <AboutMe />
           <Projects />
           <Testemonials />
-          <Form />
+          <Form /> */}
         </div>
       </main>
       <footer className={styles.footer}></footer>

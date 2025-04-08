@@ -1,0 +1,33 @@
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: var(--medium-spacing);
+}
+
+.logoContainer {
+  display: flex;
+  flex-direction: row;
+  gap: var(--extra-small-spacing);
+  font-size: 22px;
+  font-weight: var(--font-weight-extra-bold);
+}
+
+.logo {
+  width: 21px;
+  height: 21px;
+}
+
+@media only screen and (max-width: 750px) {
+  .headerContainer {
+    background-color: var(--primary-color);
+    border-radius: var(--radius-small);
+    padding: var(--container-padding-small);
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.1);
+  }
+
+  .headerContainer div:last-child {
+    display: none;
+  }
+}

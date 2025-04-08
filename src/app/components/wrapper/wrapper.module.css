@@ -2,3 +2,10 @@
   margin-left: 8px;
   margin-right: 8px;
 }
+
+@media (min-width: 768px) {
+  .wrapper {
+    margin-left: 55px;
+    margin-right: 55px;
+  }
+}

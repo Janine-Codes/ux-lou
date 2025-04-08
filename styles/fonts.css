@@ -1,0 +1,161 @@
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-Black.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-BlackItalic.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-Bold.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-BoldItalic.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-Clear.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-Clear.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-ClearItalic.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-ClearItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-Light.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-LightItalic.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-Medium.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-MediumItalic.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-Regular.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-RegularItalic.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-RegularItalic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-Semibold.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-Semibold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-SemiboldItalic.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-SemiboldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-Thin.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-ThinItalic.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-Ultrablack.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-Ultrablack.woff") format("woff");
+  font-weight: 950;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-UltrablackItalic.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-UltrablackItalic.woff") format("woff");
+  font-weight: 950;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-Ultralight.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-Ultralight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BeausiteClassic";
+  src: url("/fonts/BeausiteClassicWeb-UltralightItalic.woff2") format("woff2"),
+    url("/fonts/BeausiteClassicWeb-UltralightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+}
+
+/* Global font application */
