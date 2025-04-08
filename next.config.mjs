@@ -10,6 +10,9 @@ const nextConfig = {
     }
     return config;
   },
+  images: {
+    unoptimized: true, // För Netlify kompatibilitet med bilder
+  },
 };
 
 export default nextConfig;
