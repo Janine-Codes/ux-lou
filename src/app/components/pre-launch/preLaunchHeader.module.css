@@ -12,11 +12,17 @@
   gap: var(--extra-small-spacing);
   font-size: 22px;
   font-weight: var(--font-weight-extra-bold);
+  align-items: center;
 }
 
 .logo {
   width: 21px;
   height: 21px;
+}
+
+.headerSpan {
+  font-size: var(--font-sm);
+  font-weight: var(--font-weight-extra-bold);
 }
 
 @media only screen and (max-width: 750px) {

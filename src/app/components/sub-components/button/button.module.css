@@ -13,6 +13,7 @@
   padding-right: 48px;
   border: none;
   width: 307px;
+  cursor: pointer;
 }
 
 .secondaryButton {
@@ -28,6 +29,7 @@
   padding-right: 48px;
   border: none;
   width: 307px;
+  cursor: pointer;
 }
 
 @media only screen and (min-width: 750px) {

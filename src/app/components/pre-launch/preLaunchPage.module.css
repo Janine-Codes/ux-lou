@@ -24,13 +24,14 @@
 }
 
 .title {
-  font-size: 50px;
+  font-size: var(--font-extra-large);
   font-weight: var(--font-weight-extra-bold);
 }
 
 .subtitle {
   font-size: var(--font-medium);
   font-weight: var(--font-weight-regular);
+  font-family: "CircularSpotifyText";
 }
 
 @media only screen and (max-width: 750px) {

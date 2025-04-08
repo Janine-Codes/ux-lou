@@ -3,7 +3,6 @@ html {
   margin: 0;
   padding: 0;
   background-color: var(--primary-color);
-  font-family: Arial, sans-serif;
   color: var(--text-dark);
   background-color: var(--ternary-color);
   font-family: "CircularStd", "CircularSpotifyText", sans-serif;

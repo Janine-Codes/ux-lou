@@ -14,7 +14,7 @@ export default function PreLaunchHeader() {
               alt="Lou's Logo"
               className={styles.logo}
             />
-            <span>UX by Lou</span>
+            <span className={styles.headerSpan}>UX by Lou</span>
           </div>
           <div>
             <Button label="Chat with me" />
