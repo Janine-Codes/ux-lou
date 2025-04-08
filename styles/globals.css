@@ -6,7 +6,7 @@ html {
   font-family: Arial, sans-serif;
   color: var(--text-dark);
   background-color: var(--ternary-color);
-  font-family: "BeausiteClassic", sans-serif;
+  font-family: "CircularStd", "CircularSpotifyText", sans-serif;
 }
 
 p,
