@@ -1,4 +1,4 @@
-import styles from "./Section.module.css";
+import styles from "./section.module.css";
 
 function Section({ children }) {
   return <div className={styles.section}>{children}</div>;
